@@ -1774,23 +1774,23 @@ PRODUCT_PACKAGES += \
     libthermalclient \
     libtime_genoff \
     libqct_resampler \
-    QtiSystemService \
-    QtiTelephonyService \
-    WfdService \
-    WfdCommon \
-    datastatusnotification \
-    embms \
-    ims \
-    imssettings \
-    qcrilmsgtunnel \
     uceShimService \
-    CNEService \
-    dpmserviceapp \
-    PowerOffAlarm \
     QFingerprintService \
 		FingerprintExtensionService \
     SVIService \
-    TimeService \
     colorservice \
     com.qti.snapdragon.sdk.display \
     chargeonlymode
+	# QtiSystemService
+    # QtiTelephonyService
+    # WfdService 
+    # WfdCommon 
+    # datastatusnotification
+    # embms 
+    # ims 
+    # imssettings 
+    # qcrilmsgtunnel
+	# CNEService 
+    # dpmserviceapp
+    # PowerOffAlarm
+	# TimeService
